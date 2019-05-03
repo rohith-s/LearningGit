@@ -1,2 +1,4 @@
 # LearningGit
-hello
+Hello Team
+
+##Second commit details
